@@ -1,0 +1,13 @@
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.exe
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.deps.json
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.runtimeconfig.json
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.runtimeconfig.dev.json
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.dll
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.pdb
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.csprojAssemblyReference.cache
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.AssemblyInfoInputs.cache
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.AssemblyInfo.cs
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.csproj.CoreCompileInputs.cache
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.dll
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.pdb
+G:\Backend\Console\Metodo-Construtor-SENAI\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.genruntimeconfig.cache
