@@ -2,10 +2,10 @@ namespace Metodo_Construtor.Classes.cs
 {
     public class Produto
     {
-        public int codigo;
-        public string nome;
-        public string descricao;
-        public int estoque;
+        public int codigo{ get; set; }
+        public string nome{ get; set; }
+        public string descricao{ get; set; }
+        public int estoque{ get; set;}
 
         public Produto(){
 
